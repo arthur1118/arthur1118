@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello, everybody! :wink:
 
-<!--
-**arthur1118/arthur1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :mortar_board: Estudante Desenvolvimento de Sistema Etec
 
-Here are some ideas to get you started:
+- :purple_heart: Apaixonado por Hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<a href="https://github.com/arthur1118/arthur1118">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1118&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+<hr>
+<a href="https://github.com/arthur1118/arthur1118">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1118&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
+</a>
