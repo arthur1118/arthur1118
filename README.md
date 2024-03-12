@@ -2,7 +2,6 @@
 
 - :mortar_board: Estudante Desenvolvimento de Sistema Etec
 
-- :purple_heart: Apaixonado por Hardware
 
 <hr>
 <a href="https://github.com/arthur1118/arthur1118">
