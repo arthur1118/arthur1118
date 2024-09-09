@@ -1,4 +1,4 @@
-## Hello, everybody! :wink:
+## Hello, everybody!
 
 - :mortar_board: Estudante Desenvolvimento de Sistema Etec
 
